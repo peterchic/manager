@@ -4,7 +4,7 @@ import {
   LOGIN_USER_SUCCESS,
   LOGIN_USER_FAIL,
   LOGIN_USER
-} from '../actions/types';
+} from '../actions';
 
 const INITIAL_STATE = {
   email: '',

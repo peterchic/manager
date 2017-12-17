@@ -1,6 +1,6 @@
 import {
   EMPLOYEES_FETCH_SUCCESS
-} from '../actions/types';
+} from '../actions';
 
 const INITIAL_STATE = {};
 

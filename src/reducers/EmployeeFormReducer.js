@@ -2,7 +2,7 @@ import {
   EMPLOYEE_UPDATE,
   EMPLOYEE_CREATE,
   EMPLOYEE_SAVE_SUCCESS
-} from '../actions/types';
+} from '../actions';
 
 const INITIAL_STATE = {
   name: '',
